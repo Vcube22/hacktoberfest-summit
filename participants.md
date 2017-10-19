@@ -18,4 +18,4 @@
 * @WonderWolski
 * @Lerhun22 - Didier Flury
 * @Revhe
-* @sliard - Samuel Liard
+* @Vcube22 Vincent
